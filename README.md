@@ -1,4 +1,4 @@
-##宙斯(zeus)是什么
+## 宙斯(zeus)是什么
 宙斯是一个完整的Hadoop的作业平台  
 从Hadoop任务的调试运行到生产任务的周期调度
 宙斯支持任务的整个生命周期
@@ -18,13 +18,13 @@ Hadoop任务的自动调度
 * [用户进阶手册](https://github.com/alibaba/zeus/wiki/用户进阶手册)
 * [管理员配置手册](https://github.com/alibaba/zeus/wiki/管理员配置手册)
  
-###宙斯开源，不仅仅是开源技术，更是开源产品  
+### 宙斯开源，不仅仅是开源技术，更是开源产品  
 开发中心，一个文档管理，开发调试的环境，在任务上线前的主要工作区域  
 <a href="http://yun.duiba.com.cn/xuhengfei/snapshot-dev.png" target="_blank"><img src="http://yun.duiba.com.cn/xuhengfei/snapshot-dev.png" /></a>
 调度中心，生产任务的调度环境，当任务调试通过后，在此处配置调度信息进行生产调度  
 <a href="http://yun.duiba.com.cn/xuhengfei/snapshot-schedule.png" target="_blank"><img src="http://yun.duiba.com.cn/xuhengfei/snapshot-schedule.png" /></a>  
 
-##宙斯运行原理
+## 宙斯运行原理
 <a href="http://yun.duiba.com.cn/xuhengfei/graph-network.png" target="_blank"><img src="http://yun.duiba.com.cn/xuhengfei/graph-network.png" /></a>  
 
 <a href="http://yun.duiba.com.cn/xuhengfei/graph-struct.png" target="_blank"><img src="http://yun.duiba.com.cn/xuhengfei/graph-struct.png" /></a>  
